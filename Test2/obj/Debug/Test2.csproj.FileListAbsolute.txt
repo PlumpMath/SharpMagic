@@ -1,0 +1,10 @@
+X:\public\SharpJS\Test\Test2\bin\Debug\Test2.dll.config
+X:\public\SharpJS\Test\Test2\bin\Debug\Test2.dll
+X:\public\SharpJS\Test\Test2\bin\Debug\Test2.pdb
+X:\public\SharpJS\Test\Test2\obj\Debug\Test2.dll
+X:\public\SharpJS\Test\Test2\obj\Debug\Test2.pdb
+X:\public\SharpMagic\Test2\bin\Debug\Test2.dll.config
+X:\public\SharpMagic\Test2\bin\Debug\Test2.dll
+X:\public\SharpMagic\Test2\bin\Debug\Test2.pdb
+X:\public\SharpMagic\Test2\obj\Debug\Test2.dll
+X:\public\SharpMagic\Test2\obj\Debug\Test2.pdb

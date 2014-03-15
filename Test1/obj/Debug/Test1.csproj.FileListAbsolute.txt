@@ -1,0 +1,16 @@
+X:\public\SharpJS\Test\Test1\bin\Debug\Test1.exe.config
+X:\public\SharpJS\Test\Test1\bin\Debug\Test1.exe
+X:\public\SharpJS\Test\Test1\bin\Debug\Test1.pdb
+X:\public\SharpJS\Test\Test1\bin\Debug\Mono.Cecil.dll
+X:\public\SharpJS\Test\Test1\bin\Debug\Mono.Cecil.pdb
+X:\public\SharpJS\Test\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+X:\public\SharpJS\Test\Test1\obj\Debug\Test1.exe
+X:\public\SharpJS\Test\Test1\obj\Debug\Test1.pdb
+X:\public\SharpMagic\Test1\bin\Debug\Test1.exe.config
+X:\public\SharpMagic\Test1\obj\Debug\Test1.exe
+X:\public\SharpMagic\Test1\obj\Debug\Test1.pdb
+X:\public\SharpMagic\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+X:\public\SharpMagic\Test1\bin\Debug\Test1.exe
+X:\public\SharpMagic\Test1\bin\Debug\Test1.pdb
+X:\public\SharpMagic\Test1\bin\Debug\Mono.Cecil.dll
+X:\public\SharpMagic\Test1\bin\Debug\Mono.Cecil.pdb

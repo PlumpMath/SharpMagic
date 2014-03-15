@@ -1,0 +1,6 @@
+X:\public\SharpJS\Test\Test2\bin\Release\Test2.dll.config
+X:\public\SharpJS\Test\Test2\bin\Release\Test2.dll
+X:\public\SharpJS\Test\Test2\bin\Release\Test2.pdb
+X:\public\SharpJS\Test\Test2\obj\Release\Test2.csprojResolveAssemblyReference.cache
+X:\public\SharpJS\Test\Test2\obj\Release\Test2.dll
+X:\public\SharpJS\Test\Test2\obj\Release\Test2.pdb
